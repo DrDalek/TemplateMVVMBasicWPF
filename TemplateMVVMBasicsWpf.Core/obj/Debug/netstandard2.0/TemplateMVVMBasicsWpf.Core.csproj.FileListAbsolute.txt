@@ -1,0 +1,9 @@
+C:\Users\Sonny\source\repos\TemplateMVVMBasicsWpf\TemplateMVVMBasicsWpf.Core\obj\Debug\netstandard2.0\TemplateMVVMBasicsWpf.Core.AssemblyInfoInputs.cache
+C:\Users\Sonny\source\repos\TemplateMVVMBasicsWpf\TemplateMVVMBasicsWpf.Core\obj\Debug\netstandard2.0\TemplateMVVMBasicsWpf.Core.AssemblyInfo.cs
+C:\Users\Sonny\source\repos\TemplateMVVMBasicsWpf\TemplateMVVMBasicsWpf.Core\bin\Debug\netstandard2.0\TemplateMVVMBasicsWpf.Core.deps.json
+C:\Users\Sonny\source\repos\TemplateMVVMBasicsWpf\TemplateMVVMBasicsWpf.Core\bin\Debug\netstandard2.0\TemplateMVVMBasicsWpf.Core.dll
+C:\Users\Sonny\source\repos\TemplateMVVMBasicsWpf\TemplateMVVMBasicsWpf.Core\bin\Debug\netstandard2.0\TemplateMVVMBasicsWpf.Core.pdb
+C:\Users\Sonny\source\repos\TemplateMVVMBasicsWpf\TemplateMVVMBasicsWpf.Core\obj\Debug\netstandard2.0\TemplateMVVMBasicsWpf.Core.csprojAssemblyReference.cache
+C:\Users\Sonny\source\repos\TemplateMVVMBasicsWpf\TemplateMVVMBasicsWpf.Core\obj\Debug\netstandard2.0\TemplateMVVMBasicsWpf.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sonny\source\repos\TemplateMVVMBasicsWpf\TemplateMVVMBasicsWpf.Core\obj\Debug\netstandard2.0\TemplateMVVMBasicsWpf.Core.dll
+C:\Users\Sonny\source\repos\TemplateMVVMBasicsWpf\TemplateMVVMBasicsWpf.Core\obj\Debug\netstandard2.0\TemplateMVVMBasicsWpf.Core.pdb
